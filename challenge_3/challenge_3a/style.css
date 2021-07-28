@@ -8,6 +8,7 @@ img {
 }
 
 div {
+	flex-direction:row-reverse;
 	margin: auto;
 	width: 600px;
 	border: 5px solid black;

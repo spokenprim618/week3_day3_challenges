@@ -1,7 +1,7 @@
 /* Figure out 5 or more DIFFERENT ways to fill in the blank 
    to produce the desired output */
 
-_________ {
+  div h1 {
     font-family: Helvetica;
     font-size: 300%;
     color: #ffd63e;
@@ -9,10 +9,10 @@ _________ {
 }
 
 /* Record your solutions here:
-   #1 -
-   #2 - 
-   #3 - 
-   #4 -
-   #5 -
+   #1 -h1
+   #2 - chuuuuu
+   #3 - unique
+   #4 -div h1
+   #5 -body h1
 
    e.g. - .pika               */

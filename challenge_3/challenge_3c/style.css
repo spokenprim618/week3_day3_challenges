@@ -5,14 +5,28 @@ h1 {
 
 img {
 	width: 100px;
+	
 }
 
-div div {
-	margin: auto;
-	width: 33%;
-	height: 250px;
-}
 
 #big_div {
 	border: 5px solid black;
+	
+}
+
+#sub_div1{
+	display: flex;
+	align-content: space-between;
+	
+}
+
+#sub_div2{
+	display: flex;
+	justify-content: center;
+	
+}
+#sub_div3{
+	display: flex;
+	justify-content: flex-end;
+	align-content: space-between;
 }
